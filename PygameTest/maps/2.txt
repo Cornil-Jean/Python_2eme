@@ -1,0 +1,15 @@
+H H H H H H H H H H H H H H H H H H A H
+H H W H H H H H H H H H H H H H W H A H
+H H W W H H H H H H H H H H H H W W A H
+H H W W H H H H H H H H H H H H H H H H
+H W A H H H H H H H H H H H H H H H H H
+H H H H H H H H A H H H H H H H H H H H
+H H H H H H W H A A H H H H H H H H H H
+H H H H H H W W A A H H H H H H H H H H
+H H H H H H W W W A A H H H H H H H H H
+H H H H H H H H A W A H H H H H H H H H
+H H H H H H H H H W H H H H H H H H H H
+H H H H H H H H H H H H H H H A H H H H
+H H H H H H H H H H H H H W H A A H H H
+H H H H H H H H H H H H H W W A A H H H
+H H H H H H H H H H H H H W W W A H H H

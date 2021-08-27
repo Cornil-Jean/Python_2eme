@@ -1,0 +1,12 @@
+#coulors
+
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+
+SCALE = 32
+
+SCREEN_H = 480
+SCREEN_W = 640
+
+ALIVE = 0
+DEAD = 1
