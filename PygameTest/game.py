@@ -70,12 +70,13 @@ class Game:
                     j+=1
         return i, round(j/i)
 
-    def load_map(self, file_name):
+     def load_map(self, file_name):
         with open("maps/" + file_name + ".txt") as map_file:
             for line in map_file:
-                tiles = []
-                for i in range(0, len(line) - 1, 2):
-                    tiles.append(line[i])
+                # tiles = []
+                # for i in range(0, len(line) - 1, 2):
+                #     tiles.append(line[i])
+                tiles = [line[i] for i in range(0, len(line) - 1, 2)]
                 self.map.append(tiles)
             print("Map Loaded")
 
